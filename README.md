@@ -6,6 +6,7 @@ NIfTI.jl
 ## Usage
 
 To read a NIfTI file:
+#e
 
 ```julia
 using NIfTI
